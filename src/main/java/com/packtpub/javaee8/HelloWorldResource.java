@@ -5,6 +5,7 @@ package com.packtpub.javaee8;
 /* setting the local modification I */
 /* getting the remote modification III */
 /* development fix */
+/* development fix 2 */
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
