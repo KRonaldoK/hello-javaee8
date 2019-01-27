@@ -1,5 +1,6 @@
 package com.packtpub.javaee8;
 /* modification made at only_developers */
+/* getting the remote modification */
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
